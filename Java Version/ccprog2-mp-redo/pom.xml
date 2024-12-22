@@ -6,6 +6,15 @@
   <name>CCPROG2 Machine Project in Java</name>
   <description>Redoing the Word Trivia MP in Java</description>
   
+	<dependencies>
+		<!-- Gson Dependency -->
+    	<dependency>
+      		<groupId>com.google.code.gson</groupId>
+      		<artifactId>gson</artifactId>
+      		<version>2.8.9</version>
+    	</dependency>
+	</dependencies>
+  
   <properties>
   	<maven.compiler.source>21</maven.compiler.source>
   	<maven.compiler.target>21</maven.compiler.target>

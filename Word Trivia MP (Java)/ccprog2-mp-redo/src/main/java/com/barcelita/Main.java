@@ -6,7 +6,7 @@ public class Main {
 	// Admin and Game Phase objects as attributes
 	private AdminPhase adminPhase;
 	private GamePhase gamePhase;
-	private Word[] wordList;
+	private ArrayList<Word> wordList;
 	private Scanner sc;
 	
 	// ANSI color codes for console text color
@@ -14,6 +14,7 @@ public class Main {
     public static final String GREEN = "\u001B[32m";
     public static final String RESET = "\u001B[0m";
     public static final String ORANGE = "\u001B[38;5;208m";
+	public static final String BLUE = "\u001B[94m";
 
 	/*
 	 * Notes:
@@ -30,10 +31,10 @@ public class Main {
 	 */
 
 	public Main(Scanner sc) {
-		adminPhase = new AdminPhase(sc);
-		gamePhase = new GamePhase(sc);
 		this.sc = sc;
-		this.wordList = new Word[150];
+		this.wordList = new ArrayList<Word>();
+		adminPhase = new AdminPhase(sc, this.wordList);
+		gamePhase = new GamePhase(sc);
 	}
 
 	public static void main(String[] args) {

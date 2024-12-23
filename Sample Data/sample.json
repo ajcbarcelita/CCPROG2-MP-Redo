@@ -1,0 +1,538 @@
+[
+    {
+        "Object": "Anahaw",
+        "Kind of": "National Symbol",
+        "Size": "Medium, Large",
+        "Shape": "Fan-like"
+    },
+    {
+        "Object": "Apple",
+        "Kind of": "Fruit",
+        "Color": "Red, Green, Yellow"
+    },
+    {
+        "Object": "Archipelago",
+        "Kind of": "Landform",
+        "Make": "Islands"
+    },
+    {
+        "Object": "Banana",
+        "Kind of": "Fruit",
+        "Color": "Yellow, Green",
+        "Shape": "Curved"
+    },
+    {
+        "Object": "Balloon",
+        "Color": "Assorted",
+        "Make": "Rubber, Latex",
+        "Contains": "Air"
+    },
+    {
+        "Object": "Bicycle",
+        "Kind of": "Vehicle",
+        "Contains": "Pedal"
+    },
+    {
+        "Object": "Carabao",
+        "Kind of": "National Symbol",
+        "Color": "Grey, Black"
+    },
+    {
+        "Object": "Coffee",
+        "Kind of": "Drink",
+        "Color": "Brown, Black",
+        "Taste": "Bitter, Sweet, Sour",
+        "Make": "Beans"
+    },
+    {
+        "Object": "Chalk",
+        "Kind of": "Stationery",
+        "Make": "Mineral",
+        "Color": "Assorted",
+        "Size": "Small"
+    },
+    {
+        "Object": "Clock",
+        "Kind of": "Timekeeping Device",
+        "Make": "Plastic, Glass",
+        "Shape": "Circular",
+        "Color": "Assorted",
+        "Contains": "Quartz"
+    },
+    {
+        "Object": "Door",
+        "Kind of": "Furniture",
+        "Make": "Wood, Plastic, Glass",
+        "Part": "Knob"
+    },
+    {
+        "Object": "Deodorant",
+        "Kind of": "Hygiene product",
+        "Form": "Solid, Roll-on, Spray",
+        "Purpose": "Controls Body Odor"
+    },
+    {
+        "Object": "Diesel",
+        "Kind of": "Fuel"
+    },
+    {
+        "Object": "Dinosaur",
+        "Kind of": "Reptile",
+        "Classified as": "Extinct",
+        "Size": "Large"
+    },
+    {
+        "Object": "Easel",
+        "Kind of": "Stand",
+        "Shape": "A-frame, H-frame",
+        "Make": "Wood"
+    },
+    {
+        "Object": "Eraser",
+        "Kind of": "Stationery",
+        "Color": "Assorted",
+        "Size": "Small",
+        "Make": "Synthetic Rubber"
+    },
+    {
+        "Object": "Emerald",
+        "Kind of": "Gemstone",
+        "Color": "Green",
+        "Shape": "Various",
+        "Make": "Beryllium Aluminum Silicate"
+    },
+    {
+        "Object": "Flute",
+        "Kind of": "Wind Instrument",
+        "Make": "Metal, Wood, Plastic",
+        "Shape": "Cylindrical, Tubular",
+        "Color": "Assorted"
+    },
+    {
+        "Object": "Flower",
+        "Kind of": "Plant",
+        "Odor": "Fragrant",
+        "Color": "Assorted"
+    },
+    {
+        "Object": "Flatiron",
+        "Kind of": "Household Appliance",
+        "Purpose": "Ironing clothes"
+    },
+    {
+        "Object": "Guitar",
+        "Kind of": "Stringed Instrument",
+        "Shape": "Hourglass",
+        "Color": "Assorted",
+        "Make": "Wood, Metal, Nylon"
+    },
+    {
+        "Object": "Glasses",
+        "Kind of": "Vision Aid",
+        "Shape": "Rectangular, Round, Oval",
+        "Make": "Glass, Metal, Plastic"
+    },
+    {
+        "Object": "Gauze",
+        "Kind of": "Medical Supply",
+        "Make": "Thin woven Fabric",
+        "Purpose": "Wound dressing"
+    },
+    {
+        "Object": "Grapes",
+        "Kind of": "Fruit",
+        "Color": "Red, Green, Purple",
+        "Shape": "Round, Clustered",
+        "Taste": "Sweet, Tart"
+    },
+    {
+        "Object": "Headphones",
+        "Kind of": "Audio Device",
+        "Make": "Plastic, Foam",
+        "Size": "Small",
+        "Shape": "Arch, Ear-shaped",
+        "Color": "Assorted"
+    },
+    {
+        "Object": "Hammock",
+        "Kind of": "Furniture",
+        "Make": "Fabric, Rope, or Netting",
+        "Purpose": "Makeshift Bed"
+    },
+    {
+        "Object": "Hammer",
+        "Kind of": "Tool",
+        "Part": "Metal Head",
+        "Used with": "Nails"
+    },
+    {
+        "Object": "Igloo",
+        "Kind of": "Shelter",
+        "Make": "Ice Blocks"
+    },
+    {
+        "Object": "Incense",
+        "Kind of": "Fragrance",
+        "Form": "Stick, Cone, Resin",
+        "Purpose": "Religious rituals"
+    },
+    {
+        "Object": "Internet",
+        "Kind of": "Technology",
+        "Example of": "Wide Area Network",
+        "Purpose": "Communication, Info Exchange"
+    },
+    {
+        "Object": "Jug",
+        "Kind of": "Container",
+        "Make": "Ceramic, Glass, Plastic",
+        "Purpose": "To hold liquids"
+    },
+    {
+        "Object": "Jar",
+        "Kind of": "Container",
+        "Make": "Glass, Plastic, Ceramic",
+        "Purpose": "To store materials or food"
+    },
+    {
+        "Object": "Jam",
+        "Kind of": "Food, Condiment",
+        "Make": "Fruits, Sugar"
+    },
+    {
+        "Object": "Jeepney",
+        "Kind of": "Vehicle",
+        "Purpose": "Public transportation",
+        "Origin": "Philippines"
+    },
+    {
+        "Object": "Keyboard",
+        "Kind of": "Input Device",
+        "Purpose": "Typing"
+    },
+    {
+        "Object": "Kettle",
+        "Kind of": "Kitchen Tool",
+        "Purpose": "Boiling Water"
+    },
+    {
+        "Object": "Kite",
+        "Kind of": "Toy",
+        "Make": "Paper, Plastic, Fabric",
+        "Shape": "Diamond-shaped",
+        "Part": "String"
+    },
+    {
+        "Object": "Laptop",
+        "Kind of": "Computer",
+        "Make": "Metal, Plastic, Glass",
+        "Shape": "Clamshell",
+        "Color": "Assorted"
+    },
+    {
+        "Object": "Lemon",
+        "Kind of": "Fruit",
+        "Taste": "Sour",
+        "Color": "Yellow",
+        "Shape": "Oval"
+    },
+    {
+        "Object": "Ladder",
+        "Kind of": "Tool",
+        "Make": "Metal, Wood, Fiberglass",
+        "Part": "Series of steps"
+    },
+    {
+        "Object": "Lake",
+        "Features": "Surrounded by Land",
+        "Kind of": "Body of Water",
+        "Size": "Various"
+    },
+    {
+        "Object": "Microwave",
+        "Kind of": "Oven",
+        "Shape": "Box-shaped",
+        "Part": "Magnetron"
+    },
+    {
+        "Object": "Milk",
+        "Kind of": "Drink",
+        "Color": "White",
+        "Taste": "Sweet"
+    },
+    {
+        "Object": "Mango",
+        "Kind of": "National Symbol",
+        "Taste": "Sweet, Tangy",
+        "Color": "Yellow, Orange",
+        "Shape": "Oval, Oblong"
+    },
+    {
+        "Object": "Mattress",
+        "Kind of": "Furniture",
+        "Make": "Foam, Latex",
+        "Part": "Sheets"
+    },
+    {
+        "Object": "Needle",
+        "Kind of": "Sewing Tool",
+        "Material": "Plastic, Metal",
+        "Size": "Thin, Slender"
+    },
+    {
+        "Object": "Nail",
+        "Kind of": "Fastener",
+        "Material": "Metal",
+        "Used with": "Hammer"
+    },
+    {
+        "Object": "Necktie",
+        "Kind of": "Neckwear",
+        "Make": "Cotton, Silk, Polyester",
+        "Color": "Various",
+        "Patterns": "Various"
+    },
+    {
+        "Object": "Necklace",
+        "Kind of": "Jewelry",
+        "Make": "Gold, Silver, Pearl, Gemstone",
+        "Purpose": "Worn around neck"
+    },
+    {
+        "Object": "Obsidian",
+        "Kind of": "Volcanic Glass",
+        "Color": "Black"
+    },
+    {
+        "Object": "Orange",
+        "Kind of": "Fruit",
+        "Color": "Orange",
+        "Taste": "Sweet, Tangy"
+    },
+    {
+        "Object": "Opal",
+        "Kind of": "Gemstone",
+        "Shape": "Oval, Pear, Round",
+        "Color": "Various",
+        "Make": "Silica Deposits"
+    },
+    {
+        "Object": "Octopus",
+        "Kind of": "Marine Animal",
+        "Part": "8 Tentacles"
+    },
+    {
+        "Object": "Purse",
+        "Kind of": "Accessory",
+        "Make": "Leather, Fabric",
+        "Color": "Assorted"
+    },
+    {
+        "Object": "Paperclip",
+        "Kind of": "Stationery",
+        "Color": "Assorted",
+        "Length": "Inch",
+        "Make": "Metal"
+    },
+    {
+        "Object": "Pencil",
+        "Kind of": "Writing Tool",
+        "Part": "Graphite Core"
+    },
+    {
+        "Object": "Quilt",
+        "Kind of": "Bedding",
+        "Make": "Stitched Layers of Fabric"
+    },
+    {
+        "Object": "Quartz",
+        "Color": "Various",
+        "Kind of": "Mineral",
+        "Make": "Silica",
+        "Shape": "Hexagonal Prism"
+    },
+    {
+        "Object": "Quill",
+        "Kind of": "Writing Tool",
+        "Make": "Feather"
+    },
+    {
+        "Object": "Quiver",
+        "Kind of": "Container",
+        "Make": "Leather, Fabric, Synthetic",
+        "Purpose": "Holds Arrows"
+    },
+    {
+        "Object": "Router",
+        "Kind of": "Network Device",
+        "Make": "Plastic",
+        "Shape": "Rectangular",
+        "Part": "Antennas"
+    },
+    {
+        "Object": "Ruby",
+        "Kind of": "Gemstone",
+        "Color": "Red",
+        "Shape": "Oval, Faceted",
+        "Make": "Corundum"
+    },
+    {
+        "Object": "Ruler",
+        "Kind of": "Measurement Tool",
+        "Make": "Plastic, Metal, Wood"
+    },
+    {
+        "Object": "Radio",
+        "Kind of": "Electronic Device",
+        "Purpose": "Receives and sends EM waves",
+        "Types": "AM, FM"
+    },
+    {
+        "Object": "Sundial",
+        "Kind of": "Timekeeping Device",
+        "Make": "Stone, Metal",
+        "Shape": "Circular"
+    },
+    {
+        "Object": "Sapphire",
+        "Kind of": "Gemstone",
+        "Color": "Blue",
+        "Shape": "Oval, Faceted",
+        "Make": "Corundum"
+    },
+    {
+        "Object": "Sampaguita",
+        "Kind of": "Flower",
+        "Color": "Yellow, White",
+        "Size": "Small"
+    },
+    {
+        "Object": "Scarf",
+        "Kind of": "Neckwear",
+        "Make": "Wool, Linen, Silk, Cotton",
+        "Color": "Assorted"
+    },
+    {
+        "Object": "Thimble",
+        "Kind of": "Protective Device",
+        "Make": "Plastic, Metal",
+        "Color": "Assorted, Silver",
+        "Size": "Small",
+        "Shape": "Cup-shaped"
+    },
+    {
+        "Object": "Television",
+        "Kind of": "Appliance",
+        "Make": "Plastic, Glass",
+        "Size": "Large",
+        "Shape": "Rectangular, Flat",
+        "Part": "LED"
+    },
+    {
+        "Object": "Tea",
+        "Kind of": "Drink",
+        "Taste": "Leafy",
+        "Color": "Green, Brown, Black"
+    },
+    {
+        "Object": "Toothbrush",
+        "Kind of": "Dental Hygiene Tool",
+        "Part": "Bristles, Handle"
+    },
+    {
+        "Object": "Urn",
+        "Kind of": "Container",
+        "Contains": "Cremated Remains",
+        "Make": "Ceramic, Metal, Marble"
+    },
+    {
+        "Object": "Unicycle",
+        "Kind of": "Vehicle",
+        "Part": "Single Wheel, Pedal"
+    },
+    {
+        "Object": "Ube",
+        "Kind of": "Food",
+        "Color": "Purple",
+        "Purpose": "Ingredient"
+    },
+    {
+        "Object": "Umbrella",
+        "Kind of": "Protective Device",
+        "Purpose": "Block sunlight and rain",
+        "Color": "Various"
+    },
+    {
+        "Object": "Vase",
+        "Kind of": "Container",
+        "Purpose": "Holds flowers",
+        "Make": "Glass, Ceramic, Porcelain"
+    },
+    {
+        "Object": "Volcano",
+        "Kind of": "Landform",
+        "Can cause": "Lava flows, ashfall, lahar"
+    },
+    {
+        "Object": "Violin",
+        "Kind of": "Stringed Instrument",
+        "Used with": "Bow"
+    },
+    {
+        "Object": "Wrench",
+        "Kind of": "Tool",
+        "Make": "Metal",
+        "Part": "Jaws"
+    },
+    {
+        "Object": "Water",
+        "Kind of": "Liquid",
+        "Color": "Colorless",
+        "Taste": "Tasteless",
+        "Make": "2 Hydrogen, 1 Oxygen"
+    },
+    {
+        "Object": "Wheel",
+        "Kind of": "Mechanical Device",
+        "Shape": "Circular"
+    },
+    {
+        "Object": "Wood",
+        "Kind of": "Material",
+        "Origin": "Trees"
+    },
+    {
+        "Object": "Xenon",
+        "Kind of": "Noble Gas",
+        "Color": "Colorless",
+        "Odor": "Odorless",
+        "Purpose": "Lighting, Imaging"
+    },
+    {
+        "Object": "Xylophone",
+        "Kind of": "Percussion Instrument",
+        "Make": "Wood",
+        "Part": "Wooden Bars, Mallets"
+    },
+    {
+        "Object": "Yarn",
+        "Kind of": "Textile",
+        "Purpose": "Knitting, Crochetting"
+    },
+    {
+        "Object": "Yoyo",
+        "Kind of": "Toy",
+        "Parts": "Discs, Axle, String"
+    },
+    {
+        "Object": "Yogurt",
+        "Kind of": "Food",
+        "Derived from": "Fermented Milk",
+        "Texture": "Creamy, Smooth"
+    },
+    {
+        "Object": "Zipper",
+        "Kind of": "Fastener",
+        "Used in": "Clothes, Bags"
+    }
+]

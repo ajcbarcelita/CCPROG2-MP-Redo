@@ -6,6 +6,11 @@ public class Word {
     private String word;
     private ArrayList<Trivia> trivias;
 
+    public Word(String word) {
+        this.word = word;
+        this.trivias = new ArrayList<Trivia>();
+    }
+
     public Word(String word, ArrayList<Trivia> trivias) {
         this.word = word;
         this.trivias = trivias;

@@ -1,9 +1,13 @@
 package com.barcelita.model;
 
-import com.google.gson.*;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.Reader;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
 
-import java.io.*;
-import java.util.*;
+import com.google.gson.*;
 
 public class AdminPhase {
     // Scanner object as attribute
@@ -22,6 +26,9 @@ public class AdminPhase {
         this.wordList = wordList;
     }
 
+    // Method to view each word in the wordList one-by-one
+    // D to view the next word, A to view the previous word, X to exit
+    // F to go to the first word, L to go to the last word
     public void viewEachWord(ArrayList<Word> wordList) {
         int i = 0;
     
@@ -41,28 +48,47 @@ public class AdminPhase {
             // Prompt the user for the next action
             System.out.println();
             System.out.println("Press 'D' to view the next word, 'A' to view the previous word, 'X' to exit.");
+            System.out.println("Press 'F' to go to the first word, 'L' to go to the last word.");
+            System.out.println();
+            System.out.print("Enter choice: ");
             String input = sc.nextLine().trim().toUpperCase();
-            
-            if (input.equals("D")) { // Move to the next word
-                if (i < wordList.size() - 1) {
-                    i++;
-                } else {
-                    System.out.println("You are at the last word.");
-                }
-            } else if (input.equals("A")) { // Move to the previous word
-                if (i > 0) {
-                    i--;
-                } else {
-                    System.out.println("You are at the first word.");
-                }
-            } else if (input.equals("X")) { // Exit the loop
+
+            switch(input) {
+                // Go back by 1 word
+                case "A":
+                    if (i > 0) {
+                        i--;
+                    } else {
+                        System.out.println("You are at the first word.");
+                    }
                 break;
-            } else {
-                System.out.println("Invalid input. Please press 'D' for next word, 'A' for previous word, or 'X' to exit.");
+                // Go forward by 1 word
+                case "D":
+                    if (i < wordList.size() - 1) {
+                        i++;
+                    } else {
+                        System.out.println("You are at the last word.");
+                    }
+                break;
+                // Go directly to the first word
+                case "F":
+                    i = 0;
+                break;
+                // Go directly to the last word
+                case "L":
+                    i = wordList.size() - 1;
+                break;
+                // Exit viewing
+                case "X":
+                    return;
+                // Invalid input
+                default:
+                    System.out.println( RED + "Invalid input. Please enter a valid choice." + RESET);
+                    System.out.println();
+                break;
             }
         }
     }
-
 
     // Method to import contents of a JSON file into an ArrayList of Word objects in Main
     public boolean importFromJson(String filePath, List<Word> wordList) {
